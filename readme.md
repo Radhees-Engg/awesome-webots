@@ -84,7 +84,7 @@ List of open source projects that use Webots.
 - [Robot Positioning Estimation using ML Techniques](https://github.com/joangerard/webots-thesis): Machine Learning techniques together with non-parametric filters (such as Particles Filter) for robot positioning estimation.
 - [Webots in Jupyter Lab](https://github.com/RobInLabUJI/Webots-Docker): Run Webots streaming server in a Docker image with Jupyter Lab.
 - [Micromouse in Webots](https://emstef.github.io/Micromouse/): E-Puck robot solves a 16×16 maze using localization, mapping, path planning and motion control.
-
+- [Maze Explorer with PID control](https://github.com/Radhees-Engg/maze-explorer-webots-simulation): A Maze Exploring AMR with a return to start functionality, Maps the Unknown grid, scalable. 
 
 ## Simulations
 
